@@ -10,7 +10,5 @@
         android:numColumns="2"
         android:gravity="center"
         android:layout_width="match_parent"
-        android:horizontalSpacing="2dp"
-        android:verticalSpacing="2dp"
-        android:layout_height="match_parent"></GridView>
+        android:layout_height="match_parent"/>
 </RelativeLayout>

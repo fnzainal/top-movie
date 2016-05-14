@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Top Movie</string>
+    <string name="API_KEY">YOURAPIKEY</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="detail">Detail Movie</string>
+    <string name="writer">Top Movie App.\nWrited by Zainal Fahrudin\nfnzainal@gmail.com</string>
 </resources>
